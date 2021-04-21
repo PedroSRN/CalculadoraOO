@@ -1,0 +1,13 @@
+C:\Users\pedra\source\repos\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\obj\Debug\netcoreapp3.1\CalculadoraOrientadaObjeto.csprojAssemblyReference.cache
+C:\Users\pedra\source\repos\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\obj\Debug\netcoreapp3.1\CalculadoraOrientadaObjeto.AssemblyInfoInputs.cache
+C:\Users\pedra\source\repos\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\obj\Debug\netcoreapp3.1\CalculadoraOrientadaObjeto.AssemblyInfo.cs
+C:\Users\pedra\source\repos\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\obj\Debug\netcoreapp3.1\CalculadoraOrientadaObjeto.csproj.CoreCompileInputs.cache
+C:\Users\pedra\source\repos\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\bin\Debug\netcoreapp3.1\CalculadoraOrientadaObjeto.exe
+C:\Users\pedra\source\repos\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\bin\Debug\netcoreapp3.1\CalculadoraOrientadaObjeto.deps.json
+C:\Users\pedra\source\repos\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\bin\Debug\netcoreapp3.1\CalculadoraOrientadaObjeto.runtimeconfig.json
+C:\Users\pedra\source\repos\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\bin\Debug\netcoreapp3.1\CalculadoraOrientadaObjeto.runtimeconfig.dev.json
+C:\Users\pedra\source\repos\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\bin\Debug\netcoreapp3.1\CalculadoraOrientadaObjeto.dll
+C:\Users\pedra\source\repos\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\bin\Debug\netcoreapp3.1\CalculadoraOrientadaObjeto.pdb
+C:\Users\pedra\source\repos\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\obj\Debug\netcoreapp3.1\CalculadoraOrientadaObjeto.dll
+C:\Users\pedra\source\repos\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\obj\Debug\netcoreapp3.1\CalculadoraOrientadaObjeto.pdb
+C:\Users\pedra\source\repos\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\obj\Debug\netcoreapp3.1\CalculadoraOrientadaObjeto.genruntimeconfig.cache
